@@ -6,7 +6,7 @@ import java.util.Locale
 
 class GalaxyManga : MangaThemesia(
     "جالاكسي مانجا",
-    "https://galaxymanga.org",
+    "https://flixscans.com/webtoons/home,
     "ar",
     dateFormat = SimpleDateFormat("MMMM dd, yyyy", Locale("ar")),
 ) {
